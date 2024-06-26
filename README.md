@@ -1,9 +1,56 @@
-# Welcome to DreamTrip 
+# DreamTrip
 
-### Share Your Experience With Us [DreamTrip](https://dream-trip-bbed1.web.app/).
+DreamTrip is a travel agency service website designed to provide users with an interactive platform to explore and book their ideal holiday destinations. The application also includes a blogging feature for users to share their travel experiences and guides.
 
-## About DreamTrip
+## Features
 
-* Anyone can share his/her travel experience here.
-* You can choose your travel spots.
-* User-friendly management system with good features.
+- **Interactive Platform**: Users can browse through a variety of holiday destinations and find their perfect trip.
+- **Booking Functionality**: Seamlessly book tours and purchase travel packages.
+- **Travel Blogs**: Users can write and share their travel experiences, tips, and guides.
+- **Admin Dashboard**: Efficiently manage destination data and blog content.
+
+## Technologies Used
+
+### Frontend
+
+- **React**
+- **React Router DOM**
+- **React Query**
+- **Material UI**
+- **Tailwind CSS**
+
+### Backend
+
+- **Node.js**
+- **Express.js**
+- **MongoDB**
+- **Mongoose**
+
+### Authentication
+
+- **Firebase**
+
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/tonmoy-dev/dreamTrip-api.git
+   cd dreamTrip-api
+   ```
+
+2. **Install backend dependencies**:
+   ```bash
+   npm install
+   ```
+
+## Running the Application
+
+1. **Start the backend server**:
+   ```bash
+   npm start
+   ```
+
+## Contact
+
+For any questions or inquiries, please contact tonmoyroydev@gmail.com
+
